@@ -25,5 +25,5 @@ theme = 'iutdelens'
     url = "/a-propos-de"
 
 [params]
-    author = "Paul Sagot"
-    authorImage = "images/avatar.png"
+    author = "PaulSagot"
+    authorImage = "/images/avatar.png"
