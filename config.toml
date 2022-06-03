@@ -1,0 +1,29 @@
+baseURL = 'http:/localhost:1313/'
+languageCode = 'en-us'
+title = 'Lampadaire'
+theme = 'iutdelens'
+
+[[menu.main]]
+    name = "À propos"
+    url = "</a-propos-de>"
+
+[[menu.main]]
+    name = "Projet"
+    url = "/projet/2022/premier-projet-de-2022"
+
+[[menu.social]]
+    name = "GitHub"
+    url = "https://github.com/VotreCompteGithub"
+    pre = "<i class='fab fa-github'></i>"
+[[menu.social]]
+    name = "Twitter"
+    url = "https://twitter.com/jpoposter"
+    pre = "<i class='fab fa-twitter'></i>"
+
+[[menu.footer]]
+    name = "À propos"
+    url = "/a-propos-de"
+
+[params]
+    author = "Paul Sagot"
+    authorImage = "images/avatar.png"
